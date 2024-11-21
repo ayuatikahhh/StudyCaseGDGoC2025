@@ -1,0 +1,1 @@
+# StudyCaseGDGoC2025
